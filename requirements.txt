@@ -1,0 +1,12 @@
+# Requirements.txt za PyInstaller
+
+# Osnovna omrežna biblioteka (vključena v Python)
+# socket - vključena
+# threading - vključena
+# json - vključena
+
+# Za GUI
+# tkinter - navadno vključena v Python instalaciji
+
+# Za gradnjo EXE:
+pyinstaller>=5.0.0
